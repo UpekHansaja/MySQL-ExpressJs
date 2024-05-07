@@ -1,0 +1,15 @@
+#compress files
+*.zip
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+*.tar
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+
+
+#env file
+.env
